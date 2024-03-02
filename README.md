@@ -2,7 +2,9 @@
 
 **`Digital Craftsman - Leader, Developer, Designer, Entrepreneur`**
 
-Hi, I'm Marcus 👋 an indie budding full-stack web developer and product designer building my digital canvas one line of code at a time. I focus on a designer-developer workflow, putting on my design thinking cap before building amazing software projects from ground-up. I strongly believe in the compounding value of consistency, and am continuously working on refining my digital craftsmanship on a daily basis! 
+Hi, I'm Marcus 👋 
+
+I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship. With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. 
 
 
 ## 🚀 Languages and Tech Stack
@@ -19,6 +21,9 @@ Hi, I'm Marcus 👋 an indie budding full-stack web developer and product design
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
           
+
 <br />
