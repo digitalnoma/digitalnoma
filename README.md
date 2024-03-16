@@ -1,10 +1,10 @@
 # ⚡ Digital Noma 
 
-**`Digital Craftsman - Bold Leader and Avid Entrepreneur, specializing in Creative Web Development`**
+**`Digital Craftsman, Bold Leader and Avid Entrepreneur, specializing in Creative Web Development`**
 
 Hi, I'm Marcus 👋 
 
-I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the "Digital Nomad" prospect! 
+I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the prospect of embodying a "Digital Nomad"! 
 
 With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. 
 
