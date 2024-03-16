@@ -34,7 +34,6 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 <br />
 
-#
 ## 📊 Marcus' GitHub Stats
 
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
@@ -50,7 +49,6 @@ Hoping to embark on more of such Entrepreneurial Ventures in the realm of hackat
 
 <br /> 
 
-#
 ## 🧑🏻‍💻 I would like to connect!
 Sure thing! Please follow one of the two paths outlined for ease of communication <br/>
 1. For business related enquires only, feel free to contact with me via my school email marcus_ng@mymail.sutd.edu.sg <br/>
