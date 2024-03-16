@@ -1,10 +1,12 @@
-# ⚡ Digital Noma 
+# Digital Noma 🧑🏻‍💻
 
 **`Digital Craftsman, Bold Leader and Avid Entrepreneur, specializing in Creative Web Development`**
 
 Hi, I'm Marcus 👋 
 
 I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the prospect of embodying a "Digital Nomad"! 
+
+Current Penultimate Computer Science and Design Student, based in the Singapore University of Technology and Design (SUTD) 🇸🇬
 
 With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. 
 
@@ -37,3 +39,19 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
+<br /> 
+
+#
+## 🧭 What are you up to these days? 
+I'm currently working on a total of three freelance projects, two of which are research projects as a part-time Research Assistant in SUTD, the last being a Freelance Full Stack Web Development project for an external client / stakeholder. 
+
+I am also building my own Software-as-a-Service (SaaS) product, which I'm looking to launch by the start of next year, Stay Tuned!
+Hoping to embark on more of such Entrepreneurial Ventures in the realm of hackathons. 
+
+<br /> 
+
+#
+## 🧑🏻‍💻 I would like to connect!
+Sure thing! Please follow one of the two paths outlined for ease of communication <br/>
+1. For business related enquires only, feel free to contact with me via my school email marcus_ng@mymail.sutd.edu.sg <br/>
+2. For non-business related enquiries, please contact me *@marcusnjh* on Telegram 
