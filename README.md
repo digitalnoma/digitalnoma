@@ -39,7 +39,7 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 #
 ## 🧭 What have you been up to these days? 
-I'm currently working on a total of three freelance projects, two of which are research projects as a part-time Research Assistant in SUTD, and the last being a Freelance Full Stack Web Development project for an external client / stakeholder. 
+I'm currently working on a total of three freelance projects, two of which are research projects as a part-time research assistant in SUTD, and the last being a full-stack web developer for an external client. 
 
 I am also building my own Software-as-a-Service (SaaS) product, which I'm looking to launch by the start of next year. <br/> <br/>
 I'm hoping to embark on more Entrepreneurial Ventures in the realm of Hackathons / Startathons. 
