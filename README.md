@@ -33,7 +33,7 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 <br/> <br/>
 
-## 📊 Marcus' GitHub Stats
+## 📊 My GitHub Stats
 
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
@@ -45,8 +45,11 @@ I am also building my own Software-as-a-Service (SaaS) product, which I'm lookin
 I'm hoping to embark on more Entrepreneurial Ventures in the realm of Hackathons / Startathons. 
 
 #
-## 🧭 What drives you these days?
-I'm still figuring things out, like how many of us are. But there's one thing for sure, I love challenging myself and finding solutions to global issues. Impact has always beeen my driving force, one that gets me up early before the crack of dawn, and a force that propels and ascends me to greater heights. Here's to more seemingly insurmountable mountains in life 🥂
+## ☄️ What drives you nowadays?
+I'm still figuring things out, like how many of us are. But there's one thing for sure, I love challenging myself and finding solutions to global issues. Impact has always beeen my driving force, one that gets me up early before the crack of dawn, and a force that propels and ascends me to greater heights. I envision a world with equitable access to education, healthcare and 
+opportunities for the underprevileged, with tech as the enabler. <br/>
+
+Here's to more seemingly insurmountable mountains in life 🥂
 
 <br /> 
 
