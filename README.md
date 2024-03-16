@@ -4,7 +4,7 @@
 
 Hi, I'm Marcus 👋 
 
-I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship. With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. 
+I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the "Digital Nomad" prospect! With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. 
 
 
 ## 🚀 Languages and Tech Stack
