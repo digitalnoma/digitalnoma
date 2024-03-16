@@ -2,15 +2,14 @@
 
 **`Digital Craftsman, Bold Leader and Avid Entrepreneur, specializing in Creative Web Development`**
 
-Hi, I'm Marcus 👋 
+Hi, I'm Marcus 👋 <br/> 
 
-I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the prospect of embodying a "Digital Nomad"! 
+I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the prospect of becoming a "Digital Nomad". <br/>
+Current Penultimate Computer Science and Design Student, based in the Singapore University of Technology and Design (SUTD) 🇸🇬 <br/> 
 
-Current Penultimate Computer Science and Design Student, based in the Singapore University of Technology and Design (SUTD) 🇸🇬
+With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. <br/>
 
-With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. 
-
-With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. 
+With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. <br/> <br/>
 
 
 ## 🚀 Languages and Tech Stack
@@ -32,24 +31,27 @@ With every project, I strive to refine my abilities, ensuring that every project
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> 
 <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />          
 
-<br />
+<br/> <br/>
 
 ## 📊 Marcus' GitHub Stats
 
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
-<br /> 
-
 #
-## 🧭 What are you up to these days? 
+## 🧭 What have you been up to these days? 
 I'm currently working on a total of three freelance projects, two of which are research projects as a part-time Research Assistant in SUTD, the last being a Freelance Full Stack Web Development project for an external client / stakeholder. 
 
-I am also building my own Software-as-a-Service (SaaS) product, which I'm looking to launch by the start of next year, Stay Tuned!
-Hoping to embark on more of such Entrepreneurial Ventures in the realm of hackathons. 
+I am also building my own Software-as-a-Service (SaaS) product, which I'm looking to launch by the start of next year. <br/> <br/>
+I'm hoping to embark on more Entrepreneurial Ventures in the realm of Hackathons / Startathons. 
+
+#
+## 🧭 What drives you these days?
+I'm still figuring things out, like how many of us are. But there's one thing for sure, I love challenging myself and finding solutions to global issues. Impact has always beeen my driving force, one that gets me up early before the crack of dawn, and one that propels and ascends me to greater heights. Here's to more seemingly insurmountable mountains in life 🥂
 
 <br /> 
 
-## 🧑🏻‍💻 I would like to connect!
-Sure thing! Please follow one of the two paths outlined for ease of communication <br/>
-1. For business related enquires only, feel free to contact with me via my school email marcus_ng@mymail.sutd.edu.sg <br/>
-2. For non-business related enquiries, please contact me *@marcusnjh* on Telegram 
+## 🧑🏻‍💻 Let's Connect !
+For sure, please follow one of the two paths outlined for you, for ease of communication: <br/>
+1. For business related enquires only, feel free to contact with me via my professional email marcusng0104@outlook.com
+2. For academic / research related enquiries, reach out to my student email marcus_ng@mymail.sutd.edu.sg <br/>
+3. For non-business related enquiries, please contact me *@marcusnjh* on Telegram 
