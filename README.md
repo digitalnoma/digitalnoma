@@ -1,6 +1,6 @@
 # ⚡ Digital Noma 
 
-**`Digital Craftsman - Bold Leader, Developer, Designer, and Entrepreneur`**
+**`Digital Craftsman - Bold Leader and Avid Entrepreneur, specializing in Creative Web Development`**
 
 Hi, I'm Marcus 👋 
 
