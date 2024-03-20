@@ -6,7 +6,7 @@ Hi, I'm Marcus 👋 <br/>
 
 Current Penultimate Computer Science and Design Student, based in the Singapore University of Technology and Design (SUTD) <br/>
 
-I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence the prospect of becoming a "Digital Nomad". <br/>
+I'm an aspiring indie full-stack web developer dedicated to digital craftsmanship, hence becoming a "Digital Nomad". <br/>
 With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. <br/>
 
 With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. <br/> <br/>
@@ -41,7 +41,7 @@ With every project, I strive to refine my abilities, ensuring that every project
 ## 🧭 What have you been up to these days? 
 I'm currently working on a total of three freelance projects, all of different natures and domain expertise.
 
-I am working on my Software-as-a-Service (SaaS) product, which I'm looking to launch by end of the year. <br/> <br/>
+I'm also working on my Software-as-a-Service (SaaS) product, which I'm looking to launch by end of the year. <br/> <br/>
 
 #
 ## ☄️ What drives you nowadays?
