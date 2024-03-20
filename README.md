@@ -57,4 +57,4 @@ For sure, please follow one of the two paths outlined for you, for ease of commu
 1. For business related enquires only, feel free to contact with me via my professional email marcusng0104@outlook.com
 2. For academic / research related enquiries, reach out to my student email marcus_ng@mymail.sutd.edu.sg <br/>
 3. For non-business related enquiries, please contact me *@marcusnjh* on Telegram
-4. My LinkedIn profile can be found on the left, let's connect! 
+4. My LinkedIn profile can be found on my left profile - let's connect! 
