@@ -6,7 +6,7 @@ Hi, I'm Marcus 👋 <br/>
 
 Welcome to my little corner of the internet, marked by a creative canvas. 
 
-I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship, hence becoming a "Digital Nomad". With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. <br/><br/>
+I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship and remote work opportunities, hence the title "Digital Nomad". With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. <br/><br/>
 My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. <br/>
 
 With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. <br/> <br/>
