@@ -56,5 +56,5 @@ Here's to more seemingly insurmountable mountains in life 🥂
 For sure, please follow one of the two paths outlined for you, for ease of communication: <br/>
 1. For business related enquires only, feel free to contact with me via my professional email marcusng0104@outlook.com
 2. For academic / research related enquiries, reach out to my student email marcus_ng@mymail.sutd.edu.sg <br/>
-3. For non-business related enquiries, please contact me *@marcusnjh* on Telegram <br/>
-My LinkedIn profile can be found on the left, let's connect! 
+3. For non-business related enquiries, please contact me *@marcusnjh* on Telegram
+4. My LinkedIn profile can be found on the left, let's connect! 
