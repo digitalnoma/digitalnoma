@@ -39,10 +39,9 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 #
 ## 🧭 What have you been up to these days? 
-I'm currently working on a total of three freelance projects, two of which are research projects as a part-time research assistant in SUTD, and the last being a full-stack web developer for an external client. 
+I'm currently working on a total of three freelance projects, all of different natures and domain expertise.
 
-I am also building my own Software-as-a-Service (SaaS) product, which I'm looking to launch by the start of next year. <br/> <br/>
-I'm hoping to embark on more Entrepreneurial Ventures in the realm of Hackathons / Startathons. 
+I am working on my Software-as-a-Service (SaaS) product, which I'm looking to launch by end of the year. <br/> <br/>
 
 #
 ## ☄️ What drives you nowadays?
@@ -53,8 +52,9 @@ Here's to more seemingly insurmountable mountains in life 🥂
 
 <br /> 
 
-## 🧑🏻‍💻 Let's Connect !
+## 🧑🏻‍💻 Let's Connect
 For sure, please follow one of the two paths outlined for you, for ease of communication: <br/>
 1. For business related enquires only, feel free to contact with me via my professional email marcusng0104@outlook.com
 2. For academic / research related enquiries, reach out to my student email marcus_ng@mymail.sutd.edu.sg <br/>
 3. For non-business related enquiries, please contact me *@marcusnjh* on Telegram 
+My LinkedIn profile can be found on the left, let's connect! 
