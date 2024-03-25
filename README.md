@@ -33,7 +33,7 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 <br/> <br/>
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
