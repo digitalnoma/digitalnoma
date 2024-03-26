@@ -1,4 +1,4 @@
-# Digital Noma 🧑🏻‍💻
+# digital noma 🧑🏻‍💻
 
 **`Digital Craftsman, Bold Leader and Avid Entrepreneur, specializing in Creative Web Development`**
 
