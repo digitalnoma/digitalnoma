@@ -39,9 +39,8 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 #
 ## 🧭 What have you been up to these days? 
-I'm currently working on a total of three freelance projects, all of different natures and domain expertise.
-
-I'm also working on my Software-as-a-Service (SaaS) product, which I'm looking to launch by end of the year. <br/> <br/>
+I'm currently working on a total of three freelance projects, all of different natures and domain expertise. <br/>
+I'm also working on my Startup, Prlgl, which I'm looking to launch by end of the year. <br/> <br/>
 
 #
 ## ☄️ What drives you nowadays?
