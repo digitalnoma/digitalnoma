@@ -7,7 +7,6 @@ Hi, I'm Marcus 👋 <br/>
 Welcome to my little corner of the internet, marked by a creative canvas. 
 
 I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship and remote work opportunities, hence "Digital Noma(d)". With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. <br/><br/>
-My commitment to the craft extends beyond mere construction; it involves a deep focus on enhancing user interaction and engagement through thoughtful design and intuitive functionality. <br/>
 
 With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. <br/> <br/>
 
@@ -38,12 +37,11 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 #
 ## 🧭 What have you been up to these days? 
-I'm currently working on a total of three freelance projects, all of different natures and domain expertise. <br/>
-I'm also working on my Startup, Prlgl, which I'm looking to launch by end of the year. <br/> <br/>
+I'm currently building the Next Generation, AI-Powered Paralegal
 
 #
 ## ☄️ What drives you nowadays?
-I love challenging myself and finding solutions to global issues. Impact has always beeen my driving force, one that gets me up early before the crack of dawn, and a force that propels and ascends me to greater heights. I envision a world with equitable access to education, healthcare and opportunities for the underprevileged, with tech as my enabler. <br/>
+I love challenging myself and finding solutions to global issues. Impact has always beeen my driving force, one that gets me up early before the crack of dawn, and a force that propels and ascends me to greater heights. I envision a world with equitable access to a suite of technologies in the digital realm we live in today. <br/>
 
 <br /> 
 
@@ -51,5 +49,3 @@ I love challenging myself and finding solutions to global issues. Impact has alw
 For sure, please follow one of the two paths outlined for you, for ease of communication: <br/>
 1. For business related enquires only, feel free to contact with me via my professional email marcusng0104@outlook.com
 2. For academic / research related enquiries, reach out to my student email marcus_ng@mymail.sutd.edu.sg <br/>
-3. For non-business related enquiries, please contact me *@marcusnjh* on Telegram
-4. My LinkedIn can be found on my left profile - let's connect! 
