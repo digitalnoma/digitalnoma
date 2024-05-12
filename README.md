@@ -37,7 +37,7 @@ With every project, I strive to refine my abilities, ensuring that every project
 
 #
 ## 🧭 What have you been up to these days? 
-I'm currently building the Next Generation, AI-Powered Paralegal
+I'm currently building an AI-powered personal assistant
 
 #
 ## ☄️ What drives you nowadays?
