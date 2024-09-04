@@ -6,10 +6,7 @@ Hi, I'm Marcus 👋 <br/>
 
 Welcome to my little corner of the internet, marked by a creative canvas. 
 
-I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship and remote work opportunities, hence "Digital Noma(d)". With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. <br/><br/>
-
-With every project, I strive to refine my abilities, ensuring that every project I undertake is not just a testament to technical proficiency, but a meaningful contribution to an ever-evolving digital landscape where user experience is paramount. <br/> <br/>
-
+I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship. With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. <br/><br/>
 
 ## 🚀 Languages and Tech Stack
 
@@ -34,14 +31,6 @@ With every project, I strive to refine my abilities, ensuring that every project
 ## 📊 GitHub Stats
 
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
-
-#
-## 🧭 What have you been up to these days? 
-I'm currently building an AI-powered personal assistant
-
-#
-## ☄️ What drives you nowadays?
-I love challenging myself and finding solutions to global issues. Impact has always beeen my driving force, one that gets me up early before the crack of dawn, and a force that propels and ascends me to greater heights. I envision a world with equitable access to a suite of technologies in the digital realm we live in today. <br/>
 
 <br /> 
 
