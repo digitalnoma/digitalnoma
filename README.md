@@ -33,8 +33,3 @@ I'm an aspiring indie full-stack software engineer dedicated to digital craftsma
 [![Marcus' GitHub Stats](https://streak-stats.demolab.com/?user=digitalnoma&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
 <br /> 
-
-## 🧑🏻‍💻 Let's Connect
-For sure, please follow one of the two paths outlined for you, for ease of communication: <br/>
-1. For business related enquires only, feel free to contact with me via my professional email marcusng0104@outlook.com
-2. For academic / research related enquiries, reach out to my student email marcus_ng@mymail.sutd.edu.sg <br/>
