@@ -6,7 +6,7 @@ Hi, I'm Marcus 👋 <br/>
 
 Welcome to my little corner of the internet, marked by a creative canvas. 
 
-I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship. With a unique approach that marries design thinking with software development, I specialize in optimizing the designer-developer workflow to create seamless, user-centric digital experiences. <br/><br/>
+I'm an aspiring indie full-stack software engineer dedicated to digital craftsmanship. With a unique approach that combines design thinking with software development, I specialize in bridging UI/UX design and software development to create seamless, user-centric digital experiences. <br/><br/>
 
 ## 🚀 Languages and Tech Stack
 
